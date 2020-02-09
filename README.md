@@ -2,7 +2,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/nulLeeKH/algorithm-training.svg)
 
 # algorithm-training
-The repository for nulLeeKH's learning.
+The repository for nulLeeKH's learning
 
 ## OJ services
 - [BAEKJOON](https://www.acmicpc.net)
